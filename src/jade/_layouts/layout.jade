@@ -1,0 +1,29 @@
+doctype html
+html
+
+  {% include head.html %}
+  
+  block stylesheets
+    
+  body
+    .navbar.navbar-default.navbar-test
+        .navbar-header
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+        a.navbar-brand-test.navbar-brand(href='/') {{ site.title }}
+        .navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li.active
+              a(href='/') Home
+            li
+              a(href='/about') About
+
+    .page-content          
+      .wrapper
+        {{ content }}
+
+    {% include footer.html %}
+    
+    block scripts

@@ -1,7 +1,7 @@
 {
   "name": "TheGazelle.github.io",
   "version": "0.0.0",
-  "description": "",
+  "description": "What is love? Baby, don't hurt me",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,16 @@
     "type": "git",
     "url": "https://github.com/TheGazelle/thegazelle.github.io.git"
   },
-  "author": "",
+  "author": "TheGazelle",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheGazelle/thegazelle.github.io/issues"
   },
-  "homepage": "http://thegazelle.github.io"
+  "homepage": "http://thegazelle.github.io",
+  "dependencies": {
+    "grunt": "0.x.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-jade-tasks": "0.5.x",
+    "grunt-contrib-jade": "^0.14.1"
+  }
 }

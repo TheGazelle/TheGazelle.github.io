@@ -7,32 +7,25 @@ module.exports = function(grunt) {
         livereload: true
       },
       jade: {
-        tasks: ["jade:debug"],
+        tasks: ["jade:publish"],
         files: ["**/*.jade", "**/*.md", "!layouts/*.jade"]
       }
     },
     jade: {
-      options: {
-        pretty: true,
-        files: {
-          "*": ["**/*.jade", "!layouts/*.jade"]
+        publish: {
+            options: {
+                client: false,
+                pretty: true
+            },
+            files: [ {
+              cwd: "src/jade",
+              src: "**/*.jade",
+              dest: "",
+              expand: true,
+              ext: ".html"
+            } ]
         }
       },
-      debug: {
-        options: {
-          locals: {
-            livereload: true
-          }
-        }
-      },
-      publish: {
-        options: {
-          locals: {
-            livereload: false
-          }
-        }
-      }
-    },
     web: {
       options: {
         port: 8001
@@ -41,9 +34,9 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-jade-tasks');
+  grunt.loadNpmTasks("grunt-contrib-jade");
 
-  grunt.registerTask('default', ['jade:debug', 'web']);
+  grunt.registerTask('default', ['jade:publish']);
   grunt.registerTask('publish', ['jade:publish']);
 
   grunt.registerTask('web', 'Start web server...', function() {

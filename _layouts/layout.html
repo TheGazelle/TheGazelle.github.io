@@ -1,67 +1,19 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
+<html>{% include head.html %}
   <body>
     <div class="navbar navbar-default navbar-test">
       <div class="navbar-header">
         <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-      </div><a href="/" class="navbar-brand-test navbar-brand">Wendy Hancock, PT</a>
+      </div><a href="/" class="navbar-brand-test navbar-brand">{{ site.title }}</a>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
           <li class="active"><a href="/">Home</a></li>
           <li><a href="/about">About</a></li>
-          <li><a href="/contact">Contact</a></li>
-          <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Dropdown<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Action</a></li>
-              <li><a href="#">Another action</a></li>
-              <li><a href="#">Something else here</a></li>
-              <li class="divider"></li>
-              <li class="dropdown-header">Nav header</li>
-              <li><a href="#">Separated link</a></li>
-              <li><a href="#">One more separated link</a></li>
-            </ul>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#">About</a>
-          </li>
         </ul>
       </div>
     </div>
-    <div class="wrap">
-      <div class="container">
-        <div class="row">
-        </div>
-        <div class="row">
-          <div class="col-md-8">
-          </div>
-          <div class="col-md-4">
-            <div class="well sidebar-nav">
-              <ul class="nav nav-list">
-                <!-- li.nav-header categories-->
-                <!-- - each cat in getCategories()
-                // li
-                  // a(href=categoryURL(cat)) 
-                -->
-                <!-- li.nav-header tags-->
-                <!-- - each tag in getTags()
-                // li
-                  // a(href=tagURL(tag)) 
-                -->
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-        {% include footer.html %}
+    <div class="page-content">         
+      <div class="wrapper">{{ content }}</div>
+    </div>{% include footer.html %}
   </body>
 </html>
