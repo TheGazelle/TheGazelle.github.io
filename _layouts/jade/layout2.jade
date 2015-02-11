@@ -1,0 +1,78 @@
+doctype html
+html
+  head
+    title= 'Wendy Hancock, PT'
+    meta(charset='utf-8')
+    link(rel='stylesheet', href='/css/bootstrap.css')
+    link(rel='stylesheet', href='/css/bootstrap-custom.css')
+    block stylesheets
+    
+  body
+    .navbar.navbar-default.navbar-test
+        .navbar-header
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+        a.navbar-brand-test.navbar-brand(href='/') Wendy Hancock, PT
+        .navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li.active
+              a(href='/') Home
+            li
+              a(href='/about') About
+            li
+              a(href='/contact') Contact
+            li.dropdown
+              a.dropdown-toggle(href='#', data-toggle='dropdown')
+                | Dropdown
+                b.caret
+              ul.dropdown-menu
+                li
+                  a(href='#') Action
+                li
+                  a(href='#') Another action
+                li
+                  a(href='#') Something else here
+                li.divider
+                li.dropdown-header Nav header
+                li
+                  a(href='#') Separated link
+                li
+                  a(href='#') One more separated link
+          ul.nav.navbar-nav.navbar-right
+            li
+              a(href='#') About
+              if user
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown')
+                    | #{user.username}
+                    b.caret
+                  ul.dropdown-menu
+                    if user && user.isAdmin
+                      li
+                        a(href='/newpost') New Post
+                    li
+                      form(action='/logout')
+                        input(type='submit' value='Logout').button.btn.btn-link
+    .wrap
+      .container
+        .row
+          block welcome
+        .row
+          .col-md-8
+            block content
+          .col-md-4
+            .well.sidebar-nav
+              ul.nav.nav-list
+                // li.nav-header categories
+                // - each cat in getCategories()
+                  // li
+                    // a(href=categoryURL(cat)) #{cat}
+                // li.nav-header tags
+                // - each tag in getTags()
+                  // li
+                    // a(href=tagURL(tag)) #{tag}
+    script(src='/js/jquery-1.8.2.js')
+    script(src='/js/bootstrap.js')
+    block scripts
