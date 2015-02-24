@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thegazelle.github.io" # the base hostname & protocol for your site
 github_username:  TheGazelle
-header-img: img/bamboo.png
+header-img: /img/bamboo.png
+email: thegazelle@klatawa.com
 
 highlighter: false
 
@@ -20,3 +21,5 @@ exclude:
   - Gruntfile.js
   - node_modules
   - package.json
+  - Gemfile
+  - Gemfile.lock

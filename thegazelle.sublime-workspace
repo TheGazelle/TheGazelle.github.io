@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"jekyll",
+				"jekyllBuild"
+			],
+			[
+				"the",
+				"thegazelle"
+			],
+			[
 				"back",
 				"background-size"
 			],
@@ -172,18 +180,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/hancockg/Documents/Javascript/SOTI/views/index.jade",
+			"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Battery Carpet Oct 14 14.rox",
 			"settings":
 			{
-				"buffer_size": 2826,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Admin/KanbanApp/KanbanApp/Web.config",
-			"settings":
-			{
-				"buffer_size": 7093,
+				"buffer_size": 6931,
 				"line_ending": "Windows"
 			}
 		},
@@ -196,117 +196,34 @@
 			}
 		},
 		{
-			"file": "/C/Source/Maintenance/Maintenance Reporting Export/Maintenance Reporting Export/Exports.cs",
+			"file": "src/jade/_layouts/post.jade",
 			"settings":
 			{
-				"buffer_size": 19915,
+				"buffer_size": 309,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "# kalejs\n\n[Site home](http://thegazelle.github.io/kalejs/)",
-			"file": "/C/Users/hancockg/Documents/Javascript/kalejs/README.md",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "_includes/head.html",
 			"settings":
 			{
-				"buffer_size": 58,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Body/Weld/North/NorthWeldSummaryMVC/Scripts/BufferIndicatorTicker.js",
-			"settings":
-			{
-				"buffer_size": 1018,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/index.html",
-			"settings":
-			{
-				"buffer_size": 1203,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/check-manager.js",
-			"settings":
-			{
-				"buffer_size": 5665,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/css/index.css",
-			"settings":
-			{
-				"buffer_size": 3411,
+				"buffer_size": 1177,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/hancockg/Documents/Javascript/Teabit/platforms/android/AndroidManifest.xml",
-			"settings":
-			{
-				"buffer_size": 1173,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/index.html",
-			"settings":
-			{
-				"buffer_size": 12447,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Battery Carpet Oct 14 14.rox",
-			"settings":
-			{
-				"buffer_size": 6931,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/scannerclass.js",
-			"settings":
-			{
-				"buffer_size": 12497,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/authentication-module.js",
-			"settings":
-			{
-				"buffer_size": 841,
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "src/jade/_layouts/layout.jade",
 			"settings":
 			{
-				"buffer_size": 924,
+				"buffer_size": 917,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_layouts/layout.html",
+			"file": "src/jade/_layouts/page.jade",
 			"settings":
 			{
-				"buffer_size": 987,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test.html",
-			"settings":
-			{
-				"buffer_size": 36,
+				"buffer_size": 160,
 				"line_ending": "Windows"
 			}
 		},
@@ -314,68 +231,107 @@
 			"file": "src/jade/_includes/head.jade",
 			"settings":
 			{
-				"buffer_size": 1135,
+				"buffer_size": 1136,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_site/index.html",
+			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 4487,
+				"buffer_size": 3398,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/public/css/bootstrap-custom.css",
+			"settings":
+			{
+				"buffer_size": 1031,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 1044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_site.scss",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Windows",
+				"name": "---"
+			}
+		},
+		{
+			"file": "src/jade/index.jade",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/views/index.jade",
+			"settings":
+			{
+				"buffer_size": 1349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 2536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "Gruntfile.js",
 			"settings":
 			{
-				"buffer_size": 1642,
+				"buffer_size": 1977,
 				"line_ending": "Windows",
 				"name": "jade: {"
-			}
-		},
-		{
-			"contents": "50195",
-			"settings":
-			{
-				"buffer_size": 5,
-				"line_ending": "Windows",
-				"name": "50195"
-			}
-		},
-		{
-			"file": "//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/SWOMSDesktopApp.exe.config",
-			"settings":
-			{
-				"buffer_size": 9635,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "SWCLL17 P62",
-			"settings":
-			{
-				"buffer_size": 11,
-				"line_ending": "Windows",
-				"name": "SWCLL17 P62"
 			}
 		}
 	],
 	"build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -392,6 +348,7 @@
 		"height": 442.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
 			"show_scope_name",
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler({ \"http\" : \"http://localhost:3128\"})) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -409,9 +366,8 @@
 	"expanded_folders":
 	[
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/img",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_sass",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/css",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_includes",
@@ -419,6 +375,29 @@
 	],
 	"file_history":
 	[
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/test.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts/page.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/test2.md",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/css/site.scss",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/layout.jade",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/index.jade",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/public/css/style.css",
+		"/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/authentication-module.js",
+		"/C/Users/hancockg/Documents/Javascript/SOTI/views/index.jade",
+		"/C/Source/Admin/KanbanApp/KanbanApp/Web.config",
+		"/C/Source/Maintenance/Maintenance Reporting Export/Maintenance Reporting Export/Exports.cs",
+		"/C/Users/hancockg/Documents/Javascript/kalejs/README.md",
+		"/C/Source/Body/Weld/North/NorthWeldSummaryMVC/Scripts/BufferIndicatorTicker.js",
+		"/C/Users/hancockg/Documents/Javascript/Teabit/www/index.html",
+		"/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/check-manager.js",
+		"/C/Users/hancockg/Documents/Javascript/Teabit/www/css/index.css",
+		"/C/Users/hancockg/Documents/Javascript/Teabit/platforms/android/AndroidManifest.xml",
+		"/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/index.html",
+		"/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/scannerclass.js",
+		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/SWOMSDesktopApp.exe.config",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/index.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/Gemfile",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/layout.html",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/package.json",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_config.yml",
 		"//t21fit01/e$/Installs/SEG2B-SWOMS-V433/SWOMSToolServer/SWOMSToolServer.exe.config",
@@ -430,8 +409,6 @@
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes/footer.html",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts/layout.jade",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_includes/head.jade",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/index.html",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/layout.html",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/.gitignore",
 		"/C/Source/Body/Weld/South/South Weld Online Measurement/SWOMS/SWOMSDesktopApp/bin/Release/Log/SWOMS.log",
 		"//t21mes02/DataPager2/jobs/RMS - Quarterly Alert - South/config.xml",
@@ -451,8 +428,6 @@
 		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST/SWOMSDesktopApp.exe.config",
 		"//t21sfbd2/e$/WebSites/QRGenerator/Web.config",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/page.html",
-		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/layout.jade",
-		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/index.jade",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts/testabc.jade",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/jade/layout.jade",
@@ -478,7 +453,6 @@
 		"//t21sfw04/e$/Inetpub/wwwroot/WebSites/BodySilo/ProductionReports/20140314-WestBody/Web.config",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/README.md",
 		"/C/Users/hancockg/Documents/Javascript/kalejs/_config.yml",
-		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/Gemfile",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/theme-setup/index.md",
 		"//t21sfw03/e$/Inetpub/wwwroot/WebSites/Plastics/IPTearlineStaging/Web.config",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/Gruntfile.js",
@@ -528,25 +502,7 @@
 		"//t21sfw05/e$/WebSites/Maintenance/PIMobileUI/Scripts/scannerclass.js",
 		"/C/Source/Admin/ADLookup/ADLookup/Scripts/Models/PhoneLookupViewModel.js",
 		"//t21sfw05/e$/WebSites/Maintenance/PIMobileUI/Web.config",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Scripts/scannerclass.js",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Scripts/check-manager.js",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Scripts/check-class.js",
-		"/C/Source/Admin/ADLookup/ADLookupLib/ADLookupTools.cs",
-		"/C/Source/Admin/ADLookup/ADLookupLib/PhoneLookupModel.cs",
-		"/C/Source/Admin/ADLookup/ADLookup/Web.config",
-		"/C/Users/hancockg/Documents/Javascript/mantiskanban/mantiskanban/config.js",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/fisherman.coffee",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/timedlevelstate.coffee",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/gameoverstate.coffee",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/mine.coffee",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/imagehelper.coffee",
-		"/C/Users/hancockg/Documents/Javascript/Sharks2/www/coffee/fishgenerator.coffee",
-		"/C/Users/hancockg/Documents/mantiskanban/mantiskanban/index.js",
-		"/C/Users/hancockg/Documents/mantiskanban/mantiskanban/index.html",
-		"/C/Users/hancockg/Documents/Javascript/g/server.js",
-		"/C/Users/hancockg/Documents/Javascript/mantiskanban/mantiskanban/index.js",
-		"/C/app/hancockg/product/12.1.0/11.2.0/client_1/Network/Admin/tnsnames.ora",
-		"/C/app/hancockg/product/12.1.0/client_1/Network/Admin/tnsnames.ora"
+		"//t21sfbd2/e$/WebSites/PIMobileUI/Scripts/scannerclass.js"
 	],
 	"find":
 	{
@@ -718,333 +674,11 @@
 	"groups":
 	[
 		{
-			"selected": 22,
+			"selected": 11,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/hancockg/Documents/Javascript/SOTI/views/index.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2826,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								701,
-								687
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Source/Admin/KanbanApp/KanbanApp/Web.config",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7093,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								764,
-								630
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Cowl June 27 14.rox",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								574,
-								574
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 26.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Source/Maintenance/Maintenance Reporting Export/Maintenance Reporting Export/Exports.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19915,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C#/C#.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1170.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/hancockg/Documents/Javascript/kalejs/README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 58,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								58,
-								58
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Source/Body/Weld/North/NorthWeldSummaryMVC/Scripts/BufferIndicatorTicker.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1018,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1203,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								885,
-								885
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/check-manager.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5665,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 840.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/css/index.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3408,
-								3408
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1048.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/platforms/android/AndroidManifest.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1173,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								203,
-								203
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12447,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
 					"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Battery Carpet Oct 14 14.rox",
 					"semi_transient": false,
 					"settings":
@@ -1069,309 +703,72 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/scannerclass.js",
+					"buffer": 1,
+					"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Cowl June 27 14.rox",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12497,
+						"buffer_size": 9156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3751,
-								3754
+								574,
+								574
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/authentication-module.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 841,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								659,
-								659
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "src/jade/_layouts/layout.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 924,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								803,
-								575
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "_layouts/layout.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 987,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								987,
-								987
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "test.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 36,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "src/jade/_includes/head.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1135,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								748,
-								748
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "_site/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2039,
-								2039
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 195.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95,
-								95
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "Gruntfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1642,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								790,
-								790
-							]
-						],
-						"settings":
-						{
-							"auto_name": "jade: {",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5,
-								5
-							]
-						],
-						"settings":
-						{
-							"auto_name": "50195",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 26.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
-					"file": "//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/SWOMSDesktopApp.exe.config",
+					"buffer": 2,
+					"file": "src/jade/_layouts/post.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9635,
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1177,
 						"regions":
 						{
 						},
@@ -1384,43 +781,397 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/XML/XML.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 624.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 4,
+					"file": "src/jade/_layouts/layout.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11,
+						"buffer_size": 917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11,
-								11
+								868,
+								868
 							]
 						],
 						"settings":
 						{
-							"auto_name": "SWCLL17 P62",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/jade/_layouts/page.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/jade/_includes/head.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3357,
+								3357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/public/css/bootstrap-custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_sass/_site.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/jade/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/hancockg/Documents/Javascript/physiowendy2/views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1978,
+								1919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1569,
+								1569
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jade: {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
 					"type": "text"
 				}
 			]

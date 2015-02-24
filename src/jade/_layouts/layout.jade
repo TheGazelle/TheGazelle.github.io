@@ -1,7 +1,7 @@
 doctype html
 html
 
-  {% include head.html %}
+  | {% include head.html %}
   
   block stylesheets
     
@@ -14,7 +14,7 @@ html
             span.icon-bar
         a.navbar-brand-test.navbar-brand(href='/') 
           // img(src='img/logo.png')
-          {{ site.title }}
+          | {{ site.title }}
         .navbar-collapse.collapse
           
           ul.nav.navbar-nav
@@ -26,11 +26,10 @@ html
                 a.page-link(href!='{{ page.url | prepend: site.baseurl }}') {{ page.title }}
             | {% endif %}
             | {% endfor %}
-
+ 
     .page-content          
-      .wrapper
-        {{ content }}
+       | {{ content }}
 
-    {% include footer.html %}
+    | {% include footer.html %}
     
     block scripts

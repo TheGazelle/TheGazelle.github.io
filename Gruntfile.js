@@ -2,15 +2,7 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    watch: {
-      options: {
-        livereload: true
-      },
-      jade: {
-        tasks: ["jade:publish"],
-        files: ["**/*.jade", "**/*.md", "!layouts/*.jade"]
-      }
-    },
+
     jade: {
         publish: {
             options: {
@@ -26,31 +18,41 @@ module.exports = function(grunt) {
             } ]
         }
       },
-    web: {
-      options: {
-        port: 8001
-      }
+    shell: {
+          jekyllBuild: {
+              command: 'jekyll build'
+          }
     },
-    jekyll: {
-      options: {                          // Universal options
-        bundleExec: true,
-        serve: true,
-
+    connect: {
+        server: {
+            options: {
+                port: 4000,
+                base: '_site'
+            }
+        }
+    },
+    watch: {
+      livereload: {
+        files: [
+            '_config.yml',
+            'index.html',
+            '_layouts/**',
+            '_posts/**',
+            '_includes/**',
+            'css/**',
+            'js/**',
+            'img/**',
+            '_sass/**',
+        ],
+        tasks: ['shell:jekyllBuild'],
+        options: {
+          livereload: true
+        },
       },
-      serve : {
-        serve: true,
-        server : true,
-        server_port : 4000,
-        auto : true
-      },
-      dev: {
-        src: 'templates',
-        dest: 'dev'
-      },
-      prod: {
-        src: 'templates',
-        dest: 'prod'
-      }
+      jade: {
+          tasks: ["jade:publish"],
+          files: ["**/*.jade", "**/*.md", "!layouts/*.jade"]
+        }
     },
   });
 
@@ -58,10 +60,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-contrib-jade");
   grunt.loadNpmTasks("grunt-contrib-connect");
   grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask('default', ['jade:publish']);
+  grunt.registerTask('default', ['shell', 'connect', 'watch']);
   grunt.registerTask('publish', ['jade:publish']);
-  grunt.registerTask('test', ['jekyll:serve'])
+  grunt.registerTask('build', ['jade:publish', 'shell:jekyllBuild']);
+  grunt.registerTask('test', ['shell', 'connect', 'watch']);
 
   grunt.registerTask('web', 'Start web server...', function() {
     var options = this.options();
