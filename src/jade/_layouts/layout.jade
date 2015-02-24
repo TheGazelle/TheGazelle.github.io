@@ -12,13 +12,20 @@ html
             span.icon-bar
             span.icon-bar
             span.icon-bar
-        a.navbar-brand-test.navbar-brand(href='/') {{ site.title }}
+        a.navbar-brand-test.navbar-brand(href='/') 
+          // img(src='img/logo.png')
+          {{ site.title }}
         .navbar-collapse.collapse
+          
           ul.nav.navbar-nav
             li.active
               a(href='/') Home
+            | {% for page in site.pages %}
+            |   {% if page.title %}
             li
-              a(href='/about') About
+                a.page-link(href!='{{ page.url | prepend: site.baseurl }}') {{ page.title }}
+            | {% endif %}
+            | {% endfor %}
 
     .page-content          
       .wrapper

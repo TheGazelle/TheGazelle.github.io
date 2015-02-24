@@ -4,11 +4,14 @@
     <div class="navbar navbar-default navbar-test">
       <div class="navbar-header">
         <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-      </div><a href="/" class="navbar-brand-test navbar-brand">{{ site.title }}</a>
+      </div><a href="/" class="navbar-brand-test navbar-brand"> 
+        <!-- img(src='img/logo.png')-->{{ site.title }}</a>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
+          <li class="active"><a href="/">Home</a></li>{% for page in site.pages %}
+            {% if page.title %}
+          <li><a href="{{ page.url | prepend: site.baseurl }}" class="page-link">{{ page.title }}</a></li>{% endif %}
+          {% endfor %}
         </ul>
       </div>
     </div>

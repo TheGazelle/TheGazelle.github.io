@@ -231,14 +231,6 @@
 			}
 		},
 		{
-			"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/js/index.js",
-			"settings":
-			{
-				"buffer_size": 1914,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/check-manager.js",
 			"settings":
 			{
@@ -295,60 +287,86 @@
 			}
 		},
 		{
-			"file": "/C/Users/hancockg/Documents/Javascript/kalejs/Gemfile",
+			"file": "src/jade/_layouts/layout.jade",
 			"settings":
 			{
-				"buffer_size": 48,
-				"line_ending": "Windows",
-				"name": "source 'https://rubygems.org'"
-			}
-		},
-		{
-			"file": "/C/Users/hancockg/Documents/Javascript/kalejs/index.html",
-			"settings":
-			{
-				"buffer_size": 506,
+				"buffer_size": 924,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_layouts/layout.html",
 			"settings":
 			{
-				"buffer_size": 524,
+				"buffer_size": 987,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "test.html",
 			"settings":
 			{
-				"buffer_size": 506,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 3100,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Y/.bashrc",
-			"settings":
-			{
-				"buffer_size": 703,
+				"buffer_size": 36,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/jade/_includes/head.jade",
+			"settings":
+			{
+				"buffer_size": 1135,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_site/index.html",
+			"settings":
+			{
+				"buffer_size": 4487,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 30,
+				"buffer_size": 104,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1642,
+				"line_ending": "Windows",
+				"name": "jade: {"
+			}
+		},
+		{
+			"contents": "50195",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Windows",
+				"name": "50195"
+			}
+		},
+		{
+			"file": "//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/SWOMSDesktopApp.exe.config",
+			"settings":
+			{
+				"buffer_size": 9635,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "SWCLL17 P62",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Windows",
+				"name": "SWCLL17 P62"
 			}
 		}
 	],
@@ -390,13 +408,66 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/hancockg/Documents/Javascript/Teabit",
-		"/C/Users/hancockg/Documents/Javascript/Teabit/www",
-		"/C/Users/hancockg/Documents/Javascript/Teabit/www/css",
-		"/C/Users/hancockg/Documents/Javascript/Teabit/www/js"
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/img",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_includes",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/package.json",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_config.yml",
+		"//t21fit01/e$/Installs/SEG2B-SWOMS-V433/SWOMSToolServer/SWOMSToolServer.exe.config",
+		"//t21fit01/e$/Installs/SEG2B-SWOMS-V433/SWOMSToolServer/Log/SWOMS.log",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/index.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/index.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes/header.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes/head.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_includes/footer.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts/layout.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_includes/head.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/index.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/layout.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/.gitignore",
+		"/C/Source/Body/Weld/South/South Weld Online Measurement/SWOMS/SWOMSDesktopApp/bin/Release/Log/SWOMS.log",
+		"//t21mes02/DataPager2/jobs/RMS - Quarterly Alert - South/config.xml",
+		"/C/Users/hancockg/Documents/Visual Studio 2012/Projects/DP/DataPagerCollectorTask/bin/Debug/jobs/test/config.xml",
+		"/S/MFG-Assembly/_Shared/WEST ASSEMBLY/CL-TAGs Src/Feb 20 - 2015/magellan-robot-controller/tmmc.agv.datalayer/SCADAContext.cs",
+		"//t21mesd2/e$/DataPager2/jobs/North Paint - PIS Data Processing/config.xml",
+		"/C/Users/hancockg/Documents/Visual Studio 2012/Projects/DP/DataPagerCollectorTask/jobs/test/config.xml",
+		"//t21mesd2/e$/DataPager2/jobs/North Paint - PIS Data Processing/STYLESHEET_SUBITEMS.XSLT",
+		"//t21mes02/DataPager2/jobs/North Assembly Andon/config.xml",
+		"/S/MFG-Assembly/_Shared/WEST ASSEMBLY/CL-TAGs Src/Feb 20 - 2015/magellan-robot-controller/README.md",
+		"//t21sfbd2/e$/Installs/SEG2B-SWOMS-V359/SWOMSToolServer/Log/SWOMS.log",
+		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/Log/SWOMS.log",
+		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST/Log/SWOMS.log",
+		"//t21sfbd2/e$/Installs/SEG2B-SWOMS-V359/SWOMSToolServer/Log/SWOMS.log20150219",
+		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST/Log/SWOMS.log20150219",
+		"//t21ems01/e$/EMS/Kepware/2014Jan11_KepwareLog.txt",
+		"//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST/SWOMSDesktopApp.exe.config",
+		"//t21sfbd2/e$/WebSites/QRGenerator/Web.config",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/page.html",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/layout.jade",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/views/index.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/src/jade/_layouts/testabc.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_site/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/jade/layout.jade",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/jade/layout2.html",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/node_modules/grunt-jade-tasks/package.json",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/node_modules/grunt-jade-tasks/README.md",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/node_modules/grunt/README.md",
+		"/C/Users/hancockg/Documents/Javascript/kalejs/Gemfile",
+		"/C/Users/hancockg/Documents/Javascript/kalejs/index.html",
+		"/Y/.bashrc",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/app.js",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy2/Gruntfile.js",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/css/bootstrap-markdown.min.css",
+		"/C/Users/hancockg/Documents/Javascript/physiowendy/Gruntfile.js",
+		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/thegazelle.sublime-project",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_octopress.yml",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_layouts/default.html",
 		"/C/Users/hancockg/Documents/Javascript/TheGazelle.github.io/_posts/2015-02-10-test.md",
@@ -417,8 +488,6 @@
 		"//t21bld01/e$/Bld/Plastics/IPTearline/Web.config",
 		"/C/Users/hancockg/Documents/Javascript/kalejs/_posts/2015-02-09-welcome-to-jekyll.markdown",
 		"/C/Users/hancockg/Documents/Javascript/kalejs/_site/index.html",
-		"/C/Users/hancockg/Documents/Javascript/kalejs/index.html",
-		"/C/Users/hancockg/Documents/Javascript/kalejs/Gemfile",
 		"//t21sfbd1/e$/WebSites/IPTearline/Web.config",
 		"/C/Source/Plastics/Embedded Client/TASKS/TLDPrcDataFiles.vbs",
 		"/C/Source/Plastics/Embedded Client/TASKS/IPTLD-DataXFr.bat",
@@ -477,54 +546,7 @@
 		"/C/Users/hancockg/Documents/Javascript/g/server.js",
 		"/C/Users/hancockg/Documents/Javascript/mantiskanban/mantiskanban/index.js",
 		"/C/app/hancockg/product/12.1.0/11.2.0/client_1/Network/Admin/tnsnames.ora",
-		"/C/app/hancockg/product/12.1.0/client_1/Network/Admin/tnsnames.ora",
-		"//t21sfw05/e$/WebSites/Staging/Maintenance/PIMobileUI/Scripts/scannerclass.js",
-		"//t21sfw05/e$/WebSites/Staging/Maintenance/PIAdmin/Scripts/permissions.js",
-		"/C/Users/hancockg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"//t21sfw05/e$/WebSites/Staging/Maintenance/PIMobileUI/Models/PIEntities.edmx",
-		"//t21sfw05/e$/WebSites/Staging/Maintenance/PIMobileUI/Web.config",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Models/PIEntities.Context.cs",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Models/PI_USER.cs",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Models/PIEntities.cs",
-		"//t21sfw03/e$/Inetpub/wwwroot/WebSites/CambridgePress.Staging/Web.config",
-		"//t21sfbd2/e$/WebSites/PIMobileUI/Models/PIEntities.edmx",
-		"/C/Users/hancockg/Documents/Javascript/mantiskanban/mantiskanban/MantisKanban.sublime-project",
-		"/C/Users/hancockg/Documents/Javascript/mantiskanban/mantiskanban/server.js",
-		"/C/Users/hancockg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Plastics Tearline Stale Data Alert/datapagercollectortask_Plastics Tearline Stale Data Alert_log_20150119.txt_20150119.txt",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/NW_USS_HB_FAIL/config.xml",
-		"//wksfachpsp01/c$/Program Files/qemu/README",
-		"/C/temp/sync/fish.js",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Plastics Tearline Stale Data Alert/datapagercollectortask_Plastics Tearline Stale Data Alert_log_20150113.txt_20150113.txt",
-		"//t21mesd2/e$/DataPager2/jobs/Plastics Tearline Stale Data Alert/config.xml",
-		"//t21mesd2/e$/DataPager2/jobs/Plastics Tearline Stale Data Alert/Run.bat",
-		"//t21mesd2/e$/DataPager2/jobs/Plastics Tearline Stale Data Alert/TEARLINE_STALE_DATA.SQL",
-		"/C/Users/hancockg/Documents/mantiskanban/mantiskanban/config.js",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/WELDWATER_ENERGY/config.xml",
-		"//t21pla01/e$/FTP/log/2015010810452.LOG",
-		"//t21pla01/e$/FTP/log/2015010710050.LOG",
-		"//t21pla01/e$/FTP/log/20150107174517.LOG",
-		"//t21mesd2/e$/DataPager2/jobs/Plastics Tearline Stale Data Alert/STYLESHEET.XSLT",
-		"//t21pla01/e$/Logfiles/MSFTPSVC826312973/ex150109.log",
-		"//t21mesd2/e$/DataPager2/jobs/Plastics Tearline Stale Data Alert/output.html",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/WELDWATER_ENERGY/STYLESHEET_GENERAL_WITH_ALARM.XSLT",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Weldwater Energy Missing Data Alert/STYLESHEET_GENERAL_WITH_ALARM.XSLT",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Weldwater Energy Missing Data Alert/config.xml",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Weldwater Energy Missing Data Alert/output.html",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Plastics - Daily tearline out of spec report/TearlineBadCuts.xslt",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Weldwater Energy Missing Data Alert/WW_ENERGY_MISSING_DATA.SQL",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Weldwater Energy Missing Data Alert/reportitem1.lastrundataset.persist.dat",
-		"//t21mes02/e$/oracle/ora92/network/ADMIN/tnsnames.ora",
-		"//t21mes02/e$/oracle/ora112/network/admin/TNSNAMES.ORA",
-		"//t21mes02/e$/oracle/ora102/network/ADMIN/TNSNAMES.ORA",
-		"//t21mes02/e$/oracle/ora11/product/11.1.0/client_1/Network/Admin/TNSNAMES.ORA",
-		"//t21mes02/e$/oracle/ora102/network/ADMIN/SAMPLE/TNSNAMES.ORA",
-		"/C/Source/Plastics/Scripts/WestMeasurementData.sql",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/NW_DT_Alert-AGM/config.xml",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/Plastics - Daily tearline out of spec report/config.xml",
-		"//t21mesd2/e$/DataPager2/jobs/Press Shop - Equipment Breakdown/config.xml",
-		"//t21mes02/e$/Program Files/DataPager2/jobs/NW Stale Data Alert/config.xml",
-		"//t21mesd1/e$/DPager2/jobs/WELDWATER_ENERGY/config.xml"
+		"/C/app/hancockg/product/12.1.0/client_1/Network/Admin/tnsnames.ora"
 	],
 	"find":
 	{
@@ -543,6 +565,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"header",
 			"'\n",
 			"wdc",
 			"http_prox",
@@ -669,8 +692,7 @@
 			">\n",
 			"1",
 			"USB\\VID_045E&PID_00DB&MI_01\\8&38217CA0&0&0001",
-			"vid_045e",
-			"space"
+			"vid_045e"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -696,7 +718,7 @@
 	"groups":
 	[
 		{
-			"selected": 19,
+			"selected": 22,
 			"sheets":
 			[
 				{
@@ -726,7 +748,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -756,7 +778,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -784,7 +806,7 @@
 						"translation.y": 26.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -812,7 +834,7 @@
 						"translation.y": 1170.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -840,7 +862,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
@@ -870,7 +892,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -898,41 +920,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/js/index.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1914,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1914,
-								1914
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 231.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/check-manager.js",
 					"semi_transient": false,
 					"settings":
@@ -958,11 +950,11 @@
 						"translation.y": 840.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/www/css/index.css",
 					"semi_transient": false,
 					"settings":
@@ -988,11 +980,11 @@
 						"translation.y": 1048.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 9,
 					"file": "/C/Users/hancockg/Documents/Javascript/Teabit/platforms/android/AndroidManifest.xml",
 					"semi_transient": false,
 					"settings":
@@ -1018,11 +1010,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/index.html",
 					"semi_transient": false,
 					"settings":
@@ -1048,11 +1040,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 11,
 					"file": "/C/Source/Cafazzo/tmmc.agv/AGVProgramFiles/latest/Battery Carpet Oct 14 14.rox",
 					"semi_transient": false,
 					"settings":
@@ -1077,11 +1069,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 12,
 					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/scannerclass.js",
 					"semi_transient": false,
 					"settings":
@@ -1107,11 +1099,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 13,
 					"file": "/C/Source/Maintenance/PIAdmin/PIMobileUI.Cordova/www/js/authentication-module.js",
 					"semi_transient": false,
 					"settings":
@@ -1132,33 +1124,34 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 39.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
-					"file": "/C/Users/hancockg/Documents/Javascript/kalejs/Gemfile",
+					"buffer": 14,
+					"file": "src/jade/_layouts/layout.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 48,
+						"buffer_size": 924,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								48,
-								48
+								803,
+								575
 							]
 						],
 						"settings":
 						{
-							"auto_name": "source 'https://rubygems.org'",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1168,20 +1161,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 16,
-					"file": "/C/Users/hancockg/Documents/Javascript/kalejs/index.html",
+					"buffer": 15,
+					"file": "_layouts/layout.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 506,
+						"buffer_size": 987,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								987,
+								987
 							]
 						],
 						"settings":
@@ -1198,25 +1191,142 @@
 					"type": "text"
 				},
 				{
-					"buffer": 17,
-					"file": "_config.yml",
+					"buffer": 16,
+					"file": "test.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 524,
+						"buffer_size": 36,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								486,
-								486
+								29,
+								29
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "src/jade/_includes/head.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								748,
+								748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "_site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2039,
+								2039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jade: {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1228,12 +1338,40 @@
 					"type": "text"
 				},
 				{
-					"buffer": 18,
-					"file": "index.html",
+					"buffer": 21,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 506,
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_name": "50195",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "//wksbfit08/c$/Program Files/Toyota Motor Manufacturing Canada/FITS.TEST2/SWOMSDesktopApp.exe.config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9635,
 						"regions":
 						{
 						},
@@ -1246,97 +1384,37 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/XML/XML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								468,
-								483
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 624.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "/Y/.bashrc",
+					"buffer": 23,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 703,
+						"buffer_size": 11,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								583,
-								560
+								11,
+								11
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 49.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"auto_name": "SWCLL17 P62",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

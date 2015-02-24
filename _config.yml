@@ -11,3 +11,12 @@ highlighter: false
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - src
+  - README.md
+  - thegazelle.sublime-project
+  - thegazelle.sublime-workspace
+  - Gruntfile.js
+  - node_modules
+  - package.json
